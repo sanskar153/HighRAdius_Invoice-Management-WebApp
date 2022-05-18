@@ -1,4 +1,4 @@
-# HighRAdius_Invoice-Management-WebApp
+# HighRadius_Invoice-Management-WebApp
 
 Tech Stack used: ReactJS, Java, servlets, Mysql & JDBC.
 
